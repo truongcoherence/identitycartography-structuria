@@ -49,5 +49,5 @@ This ensures:
 
 For questions, collaboration, or usage requests, contact:
 
-***Daniel Truong — danieltruongbmed@gmail.com**
+***Daniel Truong — danieltruongbmed@gmail.com***
 
