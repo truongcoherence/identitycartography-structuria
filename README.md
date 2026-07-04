@@ -49,4 +49,5 @@ This ensures:
 
 For questions, collaboration, or usage requests, contact:
 
-**Daniel Truon
+***Daniel Truong — danieltruongbmed@gmail.com**
+
